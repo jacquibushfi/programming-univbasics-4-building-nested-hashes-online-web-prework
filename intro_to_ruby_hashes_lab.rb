@@ -25,6 +25,9 @@ def monopoly_with_third_tier
       :2house => "$200",
       :3house => "$300",
       :4house => "$400"
+      
+      
+      
     }
     }
    }
